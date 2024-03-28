@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Custom Alert Dialog</string>
+    <string name="show_alert">Show Alert</string>
+    <string name="alert_image">Alert Image</string>
+    <string name="delete_alert">Delete Alert</string>
+    <string name="are_you_want_to_delete">Are you want to delete ?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
